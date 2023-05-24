@@ -1,0 +1,25 @@
+{
+  "name": "jest-testing-js",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenaGrig/jest-testing-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenaGrig/jest-testing-JS/issues"
+  },
+  "homepage": "https://github.com/GenaGrig/jest-testing-JS#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.5.0"
+  }
+}
